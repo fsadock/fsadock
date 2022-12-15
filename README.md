@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>
-<h3 align="center">A data enthusiast with a B.S in Statistics from Brazil</h3>
+<h3 align="center">A data enthusiast from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fsadock&label=Profile%20views&color=0e75b6&style=flat" alt="fsadock" /> </p>
 
